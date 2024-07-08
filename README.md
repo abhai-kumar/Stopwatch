@@ -30,7 +30,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/stopwatch-web-application.git
+    (https://github.com/abhirajpput/PRODIGY_WD_02)
     ```
 2. **Navigate to the project directory**:
     ```sh
